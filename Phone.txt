@@ -1,2 +1,5 @@
 Phone_Name :- 
 VIVO_Y20-G
+
+Display_Protection :-
+Corning Gorilla Glass
